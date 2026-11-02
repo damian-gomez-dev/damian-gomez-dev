@@ -6,7 +6,7 @@ Combiné más de 6 años de experiencia gestionando la trinchera administrativa 
 
 ---
 
-### 🚀 Soluciones y Proyectos Destacados (Ciclo 2026)
+### 🚀 Soluciones y Proyectos Destacados (Ciclo 2027)
 
 * 💼 **Sistema Integral de Mecanismo de Integración (Flagship):** 
   Plataforma integral en desarrollo para la unificación de afiliados, prestadores, autorizaciones y lotes de pago, incorporando validaciones automáticas contra AFIP y topes de valores.
