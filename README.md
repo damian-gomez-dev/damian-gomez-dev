@@ -27,5 +27,5 @@ Combiné más de 6 años de experiencia gestionando la trinchera administrativa 
 ---
 
 ### 📬 Conectemos
-* 🏢 **Perfil Profesional:** [Tu LinkedIn o Web de Portfolio]
+* 🏢 **Perfil Profesional:**
 * ✉️ **Contacto Directo:** dami__gomez@hotmail.com
